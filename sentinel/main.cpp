@@ -28,7 +28,8 @@ int main()
 	while(data != "-99"){ 
 		getline(fin, data);
 		int rawr = atoi(data.c_str());
-		if(rawr != -99){
+		if(rawr != -99)
+		{
 			total += rawr;
 			counter++;
 		}
