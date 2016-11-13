@@ -1,0 +1,3 @@
+8 Counter
+640 Total
+80 Average
