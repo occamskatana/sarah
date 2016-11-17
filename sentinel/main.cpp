@@ -43,6 +43,8 @@ int main()
 	fout << total << " Total" << endl;
 	fout << avg << " Average" << endl;
 	
+
+	cout << avg << " average written to" << fout << endl;
 	return 0;
 }
 
